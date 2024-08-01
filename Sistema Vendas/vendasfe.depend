@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1698463139 source:c:\users\lucas\onedrive\documentos\programas em c\pim ii\menus terminais\vendasv2\vendasfe\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<time.h>
+
