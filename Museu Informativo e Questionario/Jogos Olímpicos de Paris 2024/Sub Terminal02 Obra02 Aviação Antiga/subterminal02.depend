@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1697910851 source:c:\users\lucas\onedrive\documentos\programas em c\pim ii\menus terminais\pim fgghlm códigos\jogos olímpicos de paris 2024\sub terminal02 obra02 aviação antiga\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
